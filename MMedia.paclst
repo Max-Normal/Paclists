@@ -1,0 +1,15 @@
+libva-mesa-driver
+alsa-card-profiles
+alsa-plugins
+alsa-firmware
+gst-libav
+gst-plugin-pipewire
+gst-plugins-base
+gst-plugins-good
+gst-plugins-bad
+gst-plugins-ugly
+gstreamer
+gstreamer-vaapi
+x264
+x265
+xvidcore
